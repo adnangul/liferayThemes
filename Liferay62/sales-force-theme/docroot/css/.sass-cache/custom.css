@@ -1,0 +1,8 @@
+/*
+@import url(color_schemes/day.css);
+@import url(color_schemes/night.css);
+*/
+/* arrows bullet style -  */
+.nav-menu-style-arrows ul {
+  list-style-image: url(https://cdn.lfrs.sl/www.liferay.com/osb-community-theme/images/navigation/bullet_selected.png); }
+

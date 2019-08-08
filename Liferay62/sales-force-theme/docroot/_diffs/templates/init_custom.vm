@@ -1,0 +1,5 @@
+#*
+This file allows you to override and define new Velocity variables.
+*#
+
+#set ($testInitVar = "Value from var set in init_custom")

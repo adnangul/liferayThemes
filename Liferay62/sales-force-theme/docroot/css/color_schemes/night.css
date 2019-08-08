@@ -1,0 +1,8 @@
+body.night {
+	background-color: silver;
+	color: #777;
+}
+
+.night a {
+	color: orange;
+}
